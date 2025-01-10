@@ -38,7 +38,7 @@ void order(struct product p[], int n) {
     double sum = 0.0f;
 
     int id;
-    while (~scanf("%d", &id) && id != 0) {
+    while (~scanf("%d", &id)) {
         int number;
         scanf_s("%d", &number);
 

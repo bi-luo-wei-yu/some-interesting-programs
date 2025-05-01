@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdint.h>
-#include <string.h>
 
 #define u32 uint32_t
 
@@ -20,7 +19,6 @@ int main(void)
 	u32 number = 0;//inject
 
 	//×ó²à
-
 	while (colSt <= colDl) {
 
 		//ÉÏ
